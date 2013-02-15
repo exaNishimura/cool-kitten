@@ -13,5 +13,3 @@ This is my first framework so if you see any issue please let me know it.
 Website: www.jalxob.com/cool-kitten
 Author's website: www.jalxob.com
 Twitter: @Jalxob
-
-test
